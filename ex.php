@@ -21,10 +21,10 @@
                 <a class="nav-link active" aria-current="page" href="#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="C:\xampp\htdocs\myweb\book.html">Bookings</a>
+                <a class="nav-link" href="C:\xampp\htdocs\myweb\book.php">Bookings</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="C:\xampp\htdocs\conte\ex.html">Pricing</a>
+                <a class="nav-link" href="C:\xampp\htdocs\conte\ex.php">Pricing</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
